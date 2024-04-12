@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2024-04-12T17:30:56.426Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" version="24.2.3" etag="f7J9zc0x2CA0YPRWbyJa" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-12T17:33:32.269Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="VEGi6-RlFTC8RiwJDBp7" version="24.2.3" type="github">
   <diagram name="Page-1" id="PT1lNX2SqgrQE3uxzd4M">
-    <mxGraphModel>
+    <mxGraphModel dx="558" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="psHG3767NSkcPVOny0a3-1" value="&lt;div&gt;Cred User&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="280" width="60" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="psHG3767NSkcPVOny0a3-2" value="&lt;div&gt;Cred user adds credit card&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="295" width="190" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="psHG3767NSkcPVOny0a3-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.005;entryY=0.381;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="psHG3767NSkcPVOny0a3-1" target="psHG3767NSkcPVOny0a3-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
