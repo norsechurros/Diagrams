@@ -1,16 +1,56 @@
-<mxfile host="app.diagrams.net" modified="2024-04-12T14:27:37.439Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="SRY-KDvQrmTVQ_lbp_o_" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-12T17:08:25.667Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="Yjkm56kFeBQXBlAMnaa7" version="24.2.3" type="github">
   <diagram name="Page-1" id="P4yCRqv_Tgmii8sKa3Md">
-    <mxGraphModel dx="814" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="640" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="MKIzihQiDGA15gym7IxS-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="200" width="120" height="60" as="geometry" />
+        <mxCell id="ab84RTIcWEcsqOn0Z0en-1" value="&lt;div&gt;Cred User&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="80" width="60" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="MKIzihQiDGA15gym7IxS-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ab84RTIcWEcsqOn0Z0en-2" value="&lt;div&gt;Cred GUI&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="190" width="250" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="ab84RTIcWEcsqOn0Z0en-3" value="&lt;br&gt;&lt;div&gt;Cred Interface&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ab84RTIcWEcsqOn0Z0en-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ab84RTIcWEcsqOn0Z0en-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ab84RTIcWEcsqOn0Z0en-6" value="&lt;div&gt;Cred Admin&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="260" width="70" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ab84RTIcWEcsqOn0Z0en-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ab84RTIcWEcsqOn0Z0en-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ab84RTIcWEcsqOn0Z0en-11" value="&lt;div&gt;Participating Companies&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="450" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ab84RTIcWEcsqOn0Z0en-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ab84RTIcWEcsqOn0Z0en-14" target="ab84RTIcWEcsqOn0Z0en-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="50" y="285" />
+              <mxPoint x="100" y="285" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ab84RTIcWEcsqOn0Z0en-14" value="&lt;div&gt;Cred Customer&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="370" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ab84RTIcWEcsqOn0Z0en-26" value="&lt;div&gt;DynamoDB&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="340" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ab84RTIcWEcsqOn0Z0en-28" value="Data Store" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ab84RTIcWEcsqOn0Z0en-37" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="ab84RTIcWEcsqOn0Z0en-28" target="ab84RTIcWEcsqOn0Z0en-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="320" as="sourcePoint" />
-            <mxPoint x="260" y="270" as="targetPoint" />
+            <mxPoint x="650" y="440" as="sourcePoint" />
+            <mxPoint x="700" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
