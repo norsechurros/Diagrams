@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-21T19:48:46.383Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="oI7FcARVQtANWoGdwrNJ" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-21T19:49:07.313Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="UA4bpdGe-Qzw1HWgJLVO" version="24.2.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="890" dy="958" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,10 +19,10 @@
         <mxCell id="cVaj2u5GrDJfhxVtXkWg-5" value="&lt;div&gt;Take in Customer details input&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1323" y="388" width="184" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="cVaj2u5GrDJfhxVtXkWg-7" value="&lt;div&gt;Setup Customer dashboard&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="cVaj2u5GrDJfhxVtXkWg-7" value="&lt;div&gt;Customer dashboard&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="426" y="407" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cVaj2u5GrDJfhxVtXkWg-8" value="&lt;div&gt;Setup Admin dashboard&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="cVaj2u5GrDJfhxVtXkWg-8" value="&lt;div&gt;Admin dashboard&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="749" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cVaj2u5GrDJfhxVtXkWg-9" value="Provide admin privileges for verification customer support etc." style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -106,7 +106,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="i8c5pmDL8lrEYYDZXuy1-12" value="Setup Provider dashboard" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="i8c5pmDL8lrEYYDZXuy1-12" value="Provider dashboard" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="572" y="407" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i8c5pmDL8lrEYYDZXuy1-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.974;exitY=0.49;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="cVaj2u5GrDJfhxVtXkWg-2" target="cVaj2u5GrDJfhxVtXkWg-8">
