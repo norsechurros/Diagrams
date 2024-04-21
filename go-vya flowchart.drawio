@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-21T19:49:07.313Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="UA4bpdGe-Qzw1HWgJLVO" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-21T19:52:54.859Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="8vs8mQLjrAwphZgPNA0p" version="24.2.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="890" dy="958" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -132,6 +132,27 @@
               <mxPoint x="486" y="273" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="i8c5pmDL8lrEYYDZXuy1-16" value="Provider registration" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1060" y="243" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i8c5pmDL8lrEYYDZXuy1-17" value="&lt;div&gt;Customer&lt;/div&gt;&lt;div&gt;registration&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1355" y="243" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i8c5pmDL8lrEYYDZXuy1-18" value="Admin login" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="728" y="243" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i8c5pmDL8lrEYYDZXuy1-19" value="&lt;div&gt;Provider&lt;/div&gt;&lt;div&gt;login&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="609" y="360" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i8c5pmDL8lrEYYDZXuy1-21" value="&lt;div&gt;Customer&lt;/div&gt;&lt;div&gt;&amp;nbsp;login&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="453" y="239" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i8c5pmDL8lrEYYDZXuy1-23" value="Register" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1090" y="64" width="105" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="i8c5pmDL8lrEYYDZXuy1-25" value="Login" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="825" y="68" width="105" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
