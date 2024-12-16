@@ -1,0 +1,100 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:133.0) Gecko/20100101 Firefox/133.0" version="24.8.3">
+  <diagram name="Page-1" id="1jeLxI2OCfeSWo5d0hNq">
+    <mxGraphModel dx="844" dy="1758" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_-TTu0KQnb45jtgWuE68-1" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Literature Review&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="132" y="272" width="121" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="_-TTu0KQnb45jtgWuE68-2" value="&lt;div&gt;Architecture Selection&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="374" y="192" width="143" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="_-TTu0KQnb45jtgWuE68-3" value="&lt;div&gt;Dataset Selection /&lt;/div&gt;&lt;div&gt;Feature Selection&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="649" y="269.5" width="121" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="_-TTu0KQnb45jtgWuE68-4" value="Benchmarking" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="873" y="272" width="99" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="_-TTu0KQnb45jtgWuE68-6" value="Initial Code + Experimentation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1027" y="272" width="187" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="_-TTu0KQnb45jtgWuE68-7" value="Model Evaluation + Tuning" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1045" y="387.5" width="165" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="_-TTu0KQnb45jtgWuE68-8" value="Results + Drawing Inferences/conclusiions" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1001" y="508.5" width="253" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="_-TTu0KQnb45jtgWuE68-9" value="Paper Writing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="752" y="470" width="99" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="_-TTu0KQnb45jtgWuE68-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="133" y="258.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_-TTu0KQnb45jtgWuE68-11" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="385.5" y="176" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_-TTu0KQnb45jtgWuE68-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="650" y="258.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_-TTu0KQnb45jtgWuE68-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="863" y="259" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_-TTu0KQnb45jtgWuE68-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1034.5" y="259" width="172" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_-TTu0KQnb45jtgWuE68-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1050.75" y="374" width="153.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_-TTu0KQnb45jtgWuE68-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="997.5" y="495" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_-TTu0KQnb45jtgWuE68-17" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="743" y="456.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_-TTu0KQnb45jtgWuE68-19" value="Fuzzy Based RF Approach" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="362" y="77" width="165" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="_-TTu0KQnb45jtgWuE68-20" value="Attention Based RNN" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="232" y="121" width="143" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="_-TTu0KQnb45jtgWuE68-21" value="GAN Based Approach" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="516" y="121" width="143" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="_-TTu0KQnb45jtgWuE68-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="_-TTu0KQnb45jtgWuE68-22" target="_-TTu0KQnb45jtgWuE68-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_-TTu0KQnb45jtgWuE68-22" value="&lt;h3&gt;&lt;strong&gt;Identify Relevant Symptoms and Data Sources&lt;/strong&gt;&lt;/h3&gt;&lt;p&gt;Start by considering clinical symptoms, laboratory results, immunological markers, genetic data, and demographic features. For fuzzy logic integration, you&#39;ll want to treat symptoms and biomarkers as &lt;strong&gt;fuzzy variables&lt;/strong&gt;. For instance, the presence of fatigue could be treated as a &quot;fuzzy&quot; variable, ranging from low (no fatigue) to high (severe fatigue).&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="170.25" y="-253" width="231.25" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="_-TTu0KQnb45jtgWuE68-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="_-TTu0KQnb45jtgWuE68-23" target="_-TTu0KQnb45jtgWuE68-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_-TTu0KQnb45jtgWuE68-23" value="&lt;h3&gt;&lt;strong&gt;Define Fuzzy Sets and Membership Functions&lt;/strong&gt;&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;For each symptom, create &lt;strong&gt;fuzzy sets&lt;/strong&gt;. These sets represent how the symptom is categorized based on its intensity or frequency. For example, the fuzzy set for &lt;strong&gt;fatigue&lt;/strong&gt; might look like this:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Low Fatigue&lt;/strong&gt;: 0 (no fatigue) to 0.4 (slightly fatigued)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Moderate Fatigue&lt;/strong&gt;: 0.3 to 0.7 (medium level of fatigue)&lt;/li&gt;&lt;li&gt;&lt;strong&gt;High Fatigue&lt;/strong&gt;: 0.6 to 1 (severe fatigue)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Membership functions define how degrees of truth are assigned to each fuzzy variable. You could use &lt;strong&gt;triangular&lt;/strong&gt;, &lt;strong&gt;trapezoidal&lt;/strong&gt;, or &lt;strong&gt;Gaussian&lt;/strong&gt; membership functions, depending on the data distribution.&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="168.63" y="-605" width="234.5" height="297" as="geometry" />
+        </mxCell>
+        <mxCell id="_-TTu0KQnb45jtgWuE68-24" value="&lt;h3&gt; &lt;strong&gt;Fuzzy Logic Integration into RF&lt;/strong&gt;&lt;/h3&gt;&lt;p&gt;In this step, you modify the standard RF model to integrate fuzzy logic. One way to do this is through &lt;strong&gt;fuzzy decision trees&lt;/strong&gt; and then using &lt;strong&gt;fuzzy random forests&lt;/strong&gt;. Fuzzy decision trees work by using fuzzy membership functions for decision splits, while RF models aggregate decisions across many trees.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Steps&lt;/strong&gt;:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;strong&gt;Preprocessing&lt;/strong&gt;: Convert raw symptoms into fuzzy variables.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Decision Tree Modifications&lt;/strong&gt;: Modify decision trees so that splits can occur based on fuzzy membership values, not just crisp thresholds.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Ensemble Process&lt;/strong&gt;: Train multiple fuzzy decision trees as part of the RF ensemble. Each tree works with fuzzy inputs and outputs. The final classification will be a consensus of fuzzy outputs from all trees.&lt;/li&gt;&lt;/ol&gt;&lt;ul&gt;&lt;li&gt;In &lt;strong&gt;fuzzy decision trees&lt;/strong&gt;, each node represents a decision rule based on the fuzzy values, not crisp ones.&lt;/li&gt;&lt;li&gt;Each tree is trained as usual, but the splits at each node are made using &lt;strong&gt;fuzzy thresholds&lt;/strong&gt; rather than binary thresholds.&lt;/li&gt;&lt;li&gt;The prediction from each tree is a &lt;strong&gt;fuzzy output&lt;/strong&gt;, which could represent the likelihood or degree of SLE.&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="505.5" y="-594" width="286.5" height="528" as="geometry" />
+        </mxCell>
+        <mxCell id="_-TTu0KQnb45jtgWuE68-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.005;entryY=0.398;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_-TTu0KQnb45jtgWuE68-10" target="_-TTu0KQnb45jtgWuE68-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_-TTu0KQnb45jtgWuE68-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.998;entryY=0.712;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_-TTu0KQnb45jtgWuE68-11" target="_-TTu0KQnb45jtgWuE68-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_-TTu0KQnb45jtgWuE68-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.502;entryY=1.098;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_-TTu0KQnb45jtgWuE68-11" target="_-TTu0KQnb45jtgWuE68-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_-TTu0KQnb45jtgWuE68-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.052;entryY=1.053;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_-TTu0KQnb45jtgWuE68-11" target="_-TTu0KQnb45jtgWuE68-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_-TTu0KQnb45jtgWuE68-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.444;entryY=1.019;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_-TTu0KQnb45jtgWuE68-19" target="_-TTu0KQnb45jtgWuE68-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_-TTu0KQnb45jtgWuE68-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.006;entryY=0.313;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_-TTu0KQnb45jtgWuE68-11" target="_-TTu0KQnb45jtgWuE68-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
