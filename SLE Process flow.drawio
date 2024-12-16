@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:133.0) Gecko/20100101 Firefox/133.0" version="24.8.3">
   <diagram name="Page-1" id="1jeLxI2OCfeSWo5d0hNq">
-    <mxGraphModel dx="844" dy="1758" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1413" dy="1758" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,13 +20,13 @@
           <mxGeometry x="1210" y="271.5" width="187" height="33" as="geometry" />
         </mxCell>
         <mxCell id="_-TTu0KQnb45jtgWuE68-7" value="Model Evaluation + Tuning" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1228" y="387" width="165" height="33" as="geometry" />
+          <mxGeometry x="1228" y="445" width="165" height="33" as="geometry" />
         </mxCell>
         <mxCell id="_-TTu0KQnb45jtgWuE68-8" value="Results + Drawing Inferences/conclusiions" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1184" y="508" width="253" height="33" as="geometry" />
+          <mxGeometry x="1184" y="566" width="253" height="33" as="geometry" />
         </mxCell>
         <mxCell id="_-TTu0KQnb45jtgWuE68-9" value="Paper Writing" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="779" y="508.5" width="99" height="33" as="geometry" />
+          <mxGeometry x="802.5" y="566" width="99" height="33" as="geometry" />
         </mxCell>
         <mxCell id="_-TTu0KQnb45jtgWuE68-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="133" y="258.5" width="120" height="60" as="geometry" />
@@ -61,16 +61,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_-TTu0KQnb45jtgWuE68-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1233.75" y="373.5" width="153.5" height="60" as="geometry" />
+          <mxGeometry x="1233.75" y="418" width="153.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="m3b22_OhLMWhYGsPR_bi-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_-TTu0KQnb45jtgWuE68-16" target="_-TTu0KQnb45jtgWuE68-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_-TTu0KQnb45jtgWuE68-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1180.5" y="494.5" width="260" height="60" as="geometry" />
+          <mxGeometry x="1180.5" y="552.5" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_-TTu0KQnb45jtgWuE68-17" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="770" y="495" width="120" height="60" as="geometry" />
+          <mxGeometry x="792" y="552.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_-TTu0KQnb45jtgWuE68-19" value="Fuzzy Based RF Approach" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="362" y="77" width="165" height="33" as="geometry" />
@@ -84,7 +84,7 @@
         <mxCell id="_-TTu0KQnb45jtgWuE68-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="_-TTu0KQnb45jtgWuE68-22" target="_-TTu0KQnb45jtgWuE68-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_-TTu0KQnb45jtgWuE68-22" value="&lt;h3&gt;&lt;strong&gt;Identify Relevant Symptoms and Data Sources&lt;/strong&gt;&lt;/h3&gt;&lt;p&gt;Start by considering clinical symptoms, laboratory results, immunological markers, genetic data, and demographic features. For fuzzy logic integration, you&#39;ll want to treat symptoms and biomarkers as &lt;strong&gt;fuzzy variables&lt;/strong&gt;. For instance, the presence of fatigue could be treated as a &quot;fuzzy&quot; variable, ranging from low (no fatigue) to high (severe fatigue).&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="_-TTu0KQnb45jtgWuE68-22" value="&lt;h3&gt;&lt;strong&gt;Identify Relevant Symptoms and Data Sources&lt;/strong&gt;&lt;/h3&gt;&lt;p&gt;We start by considering clinical symptoms, laboratory results, immunological markers, genetic data, and demographic features. For fuzzy logic integration, you&#39;ll want to treat symptoms and biomarkers as &lt;strong&gt;fuzzy variables&lt;/strong&gt;. For instance, the presence of fatigue could be treated as a &quot;fuzzy&quot; variable, ranging from low (no fatigue) to high (severe fatigue).&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="170.25" y="-253" width="231.25" height="220" as="geometry" />
         </mxCell>
         <mxCell id="_-TTu0KQnb45jtgWuE68-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="_-TTu0KQnb45jtgWuE68-23" target="_-TTu0KQnb45jtgWuE68-24" edge="1">
@@ -120,8 +120,8 @@
         <mxCell id="m3b22_OhLMWhYGsPR_bi-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.454;entryY=0.183;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_-TTu0KQnb45jtgWuE68-14" target="_-TTu0KQnb45jtgWuE68-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="m3b22_OhLMWhYGsPR_bi-11" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;features&lt;/h1&gt;&lt;p&gt;As of now the &lt;strong&gt;laboratory results&lt;/strong&gt; such as &lt;strong&gt;Anti-dsDNA, ESR, CRP, C3, C4 levels&lt;br&gt;&lt;/strong&gt;and genetic biomarkers or cytokine sequences look promising, the datasets for which i am trying tp find on GEO,kaggle and dbGaP &lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="913" y="-418" width="286" height="220" as="geometry" />
+        <mxCell id="m3b22_OhLMWhYGsPR_bi-11" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Features&lt;/h1&gt;&lt;p&gt;As of now the &lt;strong&gt;laboratory results&lt;/strong&gt; such as &lt;strong&gt;Anti-dsDNA, ESR, CRP, C3, C4 levels&lt;br&gt;&lt;/strong&gt;and genetic biomarkers or cytokine sequences look promising, the datasets for which i am trying tp find on GEO,kaggle and dbGaP &lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="847" y="-418" width="253" height="176" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
